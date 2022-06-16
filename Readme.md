@@ -33,14 +33,9 @@ print(device)
 
 #!git clone https://github.com/laxmimerit/dog-cat-full-dataset.git
 
-# !rm -rf ./Face-Mask-Detection/
-
-# !rm -rf ./ants_and_bees/
-
+!rm -rf ./Face-Mask-Detection/
+!rm -rf ./ants_and_bees/
 !rm -rf ./dog-cat-full-dataset/
-
-
-
 !ls ./Dogs-Cats-Detection/dataset/train
 
 # Step 2: Pre-process X, Y
