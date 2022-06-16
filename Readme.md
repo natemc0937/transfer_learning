@@ -27,7 +27,6 @@ print(device)
 
 # get data  (homework 4 要找一個github, 裡面有dataset的folder)
 #!git clone https://github.com/jaddoescad/ants_and_bees.git
-
 #!git clone https://github.com/chandrikadeb7/Face-Mask-Detection.git
 #!git clone https://github.com/laxmimerit/dog-cat-full-dataset.git
 # !rm -rf ./Face-Mask-Detection/
