@@ -27,16 +27,14 @@ print(device)
 
 # get data  (homework 4 要找一個github, 裡面有dataset的folder)
 
-#!git clone https://github.com/jaddoescad/ants_and_bees.git
+# !git clone https://github.com/jaddoescad/ants_and_bees.git
+# !git clone https://github.com/chandrikadeb7/Face-Mask-Detection.git
+# !git clone https://github.com/laxmimerit/dog-cat-full-dataset.git
 
-#!git clone https://github.com/chandrikadeb7/Face-Mask-Detection.git
-
-#!git clone https://github.com/laxmimerit/dog-cat-full-dataset.git
-
-!rm -rf ./Face-Mask-Detection/
-!rm -rf ./ants_and_bees/
-!rm -rf ./dog-cat-full-dataset/
-!ls ./Dogs-Cats-Detection/dataset/train
+* !rm -rf ./Face-Mask-Detection/
+* !rm -rf ./ants_and_bees/
+* !rm -rf ./dog-cat-full-dataset/
+* !ls ./Dogs-Cats-Detection/dataset/train
 
 # Step 2: Pre-process X, Y
 * format transform (轉換成numpy format)
